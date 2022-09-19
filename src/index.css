@@ -69,6 +69,7 @@ code {
 	text-align: center;
 	letter-spacing: 15px;
 	line-height: 0.1em;
+	margin-top: 50%;
 }
 
 #countdown li {
@@ -78,7 +79,7 @@ code {
 
 .newAlbum {
 	position: absolute;
-    padding-top: 65px;
+    padding-top: 55px;
     padding-left: 85px;
     color: white;
     font-size: 40px;
@@ -119,7 +120,7 @@ code {
 
 .button-wrapper {
     position: relative;
-    top: 65px;
+    top: 55px;
 }
 
 .button-wrapper a {
