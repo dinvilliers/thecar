@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1de8d2d42c35c37a3dbe",
-    "url": "/thecar/static/css/main.79fe0f84.chunk.css"
+    "revision": "dcb3744626dff5661524",
+    "url": "/thecar/static/css/main.4ae828fd.chunk.css"
   },
   {
-    "revision": "1de8d2d42c35c37a3dbe",
-    "url": "/thecar/static/js/main.1de8d2d4.chunk.js"
+    "revision": "dcb3744626dff5661524",
+    "url": "/thecar/static/js/main.dcb37446.chunk.js"
   },
   {
     "revision": "5d53b219d3e4842bf86d",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/thecar/static/media/suffolkpunch.5ea2cee4.ttf"
   },
   {
-    "revision": "fb2465f41520f6edd5f4b9a1d96825a6",
+    "revision": "00a20c9c2ab2c9be60eddb408d4cc70a",
     "url": "/thecar/index.html"
   }
 ];
