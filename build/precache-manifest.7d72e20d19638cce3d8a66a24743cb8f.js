@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "80b3cc917ee78830a1f4",
-    "url": "/static/css/main.e6eb4eac.chunk.css"
+    "revision": "d0c265d688f26df93914",
+    "url": "/static/css/main.60d1fd16.chunk.css"
   },
   {
-    "revision": "80b3cc917ee78830a1f4",
-    "url": "/static/js/main.80b3cc91.chunk.js"
+    "revision": "d0c265d688f26df93914",
+    "url": "/static/js/main.d0c265d6.chunk.js"
   },
   {
     "revision": "5d53b219d3e4842bf86d",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/suffolkpunch.5ea2cee4.ttf"
   },
   {
-    "revision": "7dad781efec1bcad08a95996e580b21c",
+    "revision": "f9aa5c4c792da7752b066d3b6577b057",
     "url": "/index.html"
   }
 ];
